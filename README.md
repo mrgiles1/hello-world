@@ -1,4 +1,4 @@
 # hello-world
 first repository
 
-I am Daniel, learing GitHub, Java, and other things!
+I am Daniel, learning GitHub, Javascript, and other things!
